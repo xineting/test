@@ -1,0 +1,99 @@
+[
+{
+"sid" : 1,
+"qualifiedname" : "@/home/jason/Documents/test/header.h",
+"symboltype" : "Path",
+"name" : "/home/jason/Documents/test/header.h"
+}
+,
+{
+"sid" : 2,
+"qualifiedname" : "num",
+"symboltype" : "GlobalVariable",
+"name" : "num"
+}
+,
+{
+"sid" : 3,
+"qualifiedname" : "pointabs",
+"symboltype" : "Function",
+"name" : "pointabs"
+}
+,
+{
+"sid" : 4,
+"qualifiedname" : "helper.c@59/pointabs::p",
+"symboltype" : "Parameter",
+"name" : "p"
+}
+,
+{
+"sid" : 5,
+"qualifiedname" : "struct::point",
+"symboltype" : "Struct",
+"name" : "point"
+}
+,
+{
+"sid" : 6,
+"qualifiedname" : "struct::point::x",
+"symboltype" : "Field",
+"name" : "x"
+}
+,
+{
+"sid" : 7,
+"qualifiedname" : "struct::point::y",
+"symboltype" : "Field",
+"name" : "y"
+}
+,
+{
+"sid" : 8,
+"qualifiedname" : "#MAX_LIMIT",
+"symboltype" : "Macro",
+"name" : "MAX_LIMIT"
+}
+,
+{
+"sid" : 9,
+"qualifiedname" : "main",
+"symboltype" : "Function",
+"name" : "main"
+}
+,
+{
+"sid" : 10,
+"qualifiedname" : "main.c@54/main::p",
+"symboltype" : "Typedef",
+"name" : "p"
+}
+,
+{
+"sid" : 11,
+"qualifiedname" : "main.c@60/main::point",
+"symboltype" : "LocalVariable",
+"name" : "point"
+}
+,
+{
+"sid" : 12,
+"qualifiedname" : "main.c@108/main::i",
+"symboltype" : "LocalVariable",
+"name" : "i"
+}
+,
+{
+"sid" : 13,
+"qualifiedname" : "main.c@120/main::j",
+"symboltype" : "LocalVariable",
+"name" : "j"
+}
+,
+{
+"sid" : 14,
+"qualifiedname" : "main.c@151/main::j",
+"symboltype" : "LocalVariable",
+"name" : "j"
+}
+]
