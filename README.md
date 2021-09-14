@@ -9,3 +9,4 @@
 [symbolnode.json](https://raw.githubusercontent.com/xineting/test/main/symbolnode.json)
 
 
+[print_cmd.c.json](https://raw.githubusercontent.com/xineting/test/main/da/print_cmd.c.json)
